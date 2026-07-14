@@ -23,11 +23,3 @@ To address this, we present **SPAR-Net**, a decision-decoupling framework that s
 - **Efficiency**: ADR scales with a complexity of approximately $\mathcal{O}(HWLC)$ instead of the $\mathcal{O}((HW)^2C)$ of spatial self-attention.
 - **High Robustness**: Exceptional stability under clinical corruptions (specular reflection, hair, shadow, blur) evaluated via a testing-only perturbation protocol.
 
----
-
-## 🔧 Environment Setup
-Clone this repository and install the required dependencies:
-```bash
-git clone [https://github.com/YourUsername/SPAR-Net.git](https://github.com/YourUsername/SPAR-Net.git)
-cd SPAR-Net
-pip install -r requirements.txt
