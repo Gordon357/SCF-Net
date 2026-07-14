@@ -1,7 +1,7 @@
 # SPAR-Net
 # Artifact Aware Reliability Guided Feature Routing for Optical Medical Image Segmentation (SPAR-Net)
 
-Official PyTorch implementation of the paper: **Artifact Aware Reliability Guided Feature Routing for Optical Medical Image Segmentation** (Submitted to IEEE TCSVT).
+Official PyTorch implementation of the paper: **Artifact Aware Reliability Guided Feature Routing for Optical Medical Image Segmentation**.
 
 ---
 
@@ -15,6 +15,7 @@ To address this, we present **SPAR-Net**, a decision-decoupling framework that s
 <p align="center">
   <img src="figures/fig2.png" width="90%" alt="Overall Architecture">
 </p>
+
 
 ---
 
